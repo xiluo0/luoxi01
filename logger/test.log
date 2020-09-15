@@ -1,0 +1,9 @@
+2020-09-15 14:49:16,717 INFO [root] [LWJ_Login_case.py (__init__:14] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
+2020-09-15 14:49:19,108 INFO [root] [LWJ_Login.py (__init__:16] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
+2020-09-15 14:50:43,138 INFO [root] [LWJ_Login_case.py (__init__:14] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
+2020-09-15 14:50:45,716 INFO [root] [LWJ_Login.py (__init__:16] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
+2020-09-15 14:51:52,935 INFO [root] [LWJ_Login_case.py (__init__:14] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
+2020-09-15 14:51:56,389 INFO [root] [LWJ_Login.py (__init__:16] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
+2020-09-15 14:51:56,389 INFO [root] [LWJ_Login.py (__init__:19] - 123
+2020-09-15 14:53:16,469 INFO [root] [LWJ_Login.py (__init__:16] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
+2020-09-15 14:53:16,469 INFO [root] [LWJ_Login.py (__init__:19] - 123

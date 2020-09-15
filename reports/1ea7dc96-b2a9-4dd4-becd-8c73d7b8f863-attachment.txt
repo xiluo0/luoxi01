@@ -1,0 +1,1 @@
+[32mINFO    [0m root:LWJ_Login_case.py:14 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F

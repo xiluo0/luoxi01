@@ -1,0 +1,20 @@
+test_login:
+  # 测试用例编号，第一条测试用例
+  test_login_001:
+    lv_username: ""
+    lv_password: ""
+    exp: "email': 'anonymousUser'"
+    # 第二条测试用例
+  test_login_002:
+    lv_username: "18408258850"
+    lv_password: ""
+    exp: "email': 'anonymousUser'"
+  test_login_003:
+    lv_username: ""
+    lv_password: "666666"
+    exp: "email': 'anonymousUser'"
+  test_login_004:
+    lv_username: "xixi"
+    lv_password: "9999999"
+    exp: "email': 'anonymousUser'"
+
