@@ -1,2 +1,0 @@
-2020-09-14 10:10:46,671 INFO [root] [LWJ_Login_case.py (__init__:14] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F
-2020-09-14 10:10:49,004 INFO [root] [LWJ_Login.py (__init__:16] - 登录的url地址是http://o.sales-staging.liweijia.com/security/lv_check?type=normal&returnUrl=http%3A%2F%2Fo.sales-staging.liweijia.com%2F

@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020/10/15 19:33
+# @Author  : luoxi
+# @Email   : 18408258850@163.com
+# @File    : test_Login_SUCCESS.py
+# @Software: PyCharm
+
 from api.LWJ_Login_case import LWJ_Login_case
 from tools.analyze_data import analyze_data
 import pytest,requests

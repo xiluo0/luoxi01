@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020/10/15 19:33
+# @Author  : luoxi
+# @Email   : 18408258850@163.com
+# @File    : LWJ_Login.py
+# @Software: PyCharm
+
 import allure
 
 from config import LWJ_IP,HEADERS
@@ -41,7 +48,7 @@ class LWJ_Login():
 
 
 
-    def login_success(self,session):
+    def ogin_success(self,session):
         #header3={sid.split('=')[0]:sid.split('=')[1],path.split('=')[0]:path.split('=')[1]}
         cookies = self.get_cookies()
         header3 = {'Cookie':'Hm_lvt_1a37d6e50dc8404e45d7ab69adee8d9f=1598852416;'+cookies[0]+';'+cookies[1]}

@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020/10/15 19:33
+# @Author  : luoxi
+# @Email   : 18408258850@163.com
+# @File    : config.py
+# @Software: PyCharm
+
 import os
 HEADERS = {'X-Requested-With': 'XMLHttpRequest'}
 IP = 'http://121.42.15.146:9090'

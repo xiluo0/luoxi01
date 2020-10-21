@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020/10/15 19:33
+# @Author  : luoxi
+# @Email   : 18408258850@163.com
+# @File    : md5_function.py
+# @Software: PyCharm
 import base64
 import hashlib
 

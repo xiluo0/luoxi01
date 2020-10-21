@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020/10/15 19:33
+# @Author  : luoxi
+# @Email   : 18408258850@163.com
+# @File    : get_user_info.py
+# @Software: PyCharm
 import time
 import string
 from faker import Faker
@@ -65,3 +71,6 @@ def get_register_info(count,minlength = 6,maxlength = 16):
 
 if __name__ == '__main__':
     print(get_user_info(3))
+
+
+
